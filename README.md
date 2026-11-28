@@ -6,7 +6,7 @@
 
 🌐 Сайттын шилтемеси
 
-https://sadykovnurjigitss.github.io/ala-too-cafe/
+https://anje1ikaa925-svg.github.io/ala-too-cafe-/
 
 📌 Долбоор жөнүндө
 
@@ -54,7 +54,7 @@ https://github.com/anje1ikaa925-svg/ala-too-cafe-
 
 Сайттын дареги:
 
-https://github.com/anje1ikaa925-svg/ala-too-cafe-
+https://anje1ikaa925-svg.github.io/ala-too-cafe-/
 
 
 © Автордук укук
